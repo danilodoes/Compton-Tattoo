@@ -3,7 +3,7 @@
 ## Objetivo do Projeto 🎯
 - Fins de estudo e documentação do meu desenvolvimento pessoal;
 - Fixar conceitos;
-- Treinar "boas maneiras/praticas" na programação;
+- Treinar "boas maneiras/práticas" na programação;
 - Desenvolver criatividade.
 
 ## Tecnologias Utilizadas 💻
@@ -13,5 +13,5 @@
 ## Demo 📷
 
 <p align="center">
-  <img width="900" src="toReadme/receita.gif">
+  <img width="900" src="toReadme/comptontattoo.gif">
 </p>
